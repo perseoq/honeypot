@@ -1,0 +1,38 @@
+# Bibliografía
+
+- Ahmed Sheikh - Lesson-Based Review of Ethical Hacking and Penetration Testing-Apress (2021) 
+- Alex Alexandrou - Cybercrime and Information Technology_ The Computer Network Infrastructure and Computer Security, Cybersecurity Laws, Internet of Things (IoT), and Mobile Devices-CRC Press (2021) 
+- Alexey Kleymenov, Amr Thabet - Mastering Malware Analysis_ A malware analyst's practical guide to combating malicious software, APT, cybercrime, and IoT attacks-Packt Publishing (2022) 
+- Allen Harper, Ryan Linn, Stephen Sims, Michael Baucom, Huascar Tejeda, Daniel Fernandez, Moses Frost - Gray Hat Hacking_ The Ethical Hacker's Handbook-McGraw Hill (2022) 
+  all.txt
+- Andrew Jenkinson - Ransomware and Cybercrime-CRC Press (2022) 
+- (Crime and Justice in Digital Society, I) Marleen Weulen Kranenbarg, Rutger Leukfeldt - Cybercrime in Context_ The human factor in victimization, offending, and policing-Springer (2021) 
+  (Crime Prevention And Security Management) Russell Brewer, Melissa De Vel-Palumbo, Alice Hutchings, Thomas Holt, Andrew Goldsmith, David Maimon - Cybercrime Prevention_ Theory And Applications-Palgrav 
+- (Cybercrime and Cybersecurity Research) Dale R. Cople - Weapons Systems_ Annual Assessment and Cybersecurity-Nova Science Publishers (2019) 
+- (Cybercrime and Cybersecurity Research) Kok-Boon Oh - Cybersecurity Risk Management_ An ERM Approach-Nova Science Publishers (2022) 
+- (Cybercrime and cybersecurity research) Randal Joyce_ Abdulrahman Yarali_ Faris Sahawneh - Cybersecurity and digital forensics _ challenges and future paradigms-Nova Science Publishers (2022) 
+- Dale Meredith - Certified Ethical Hacker (CEH) v11 312-50 Exam Guide_ Keep up to date with ethical hacking trends and hone your skills with hands-on activities-Packt Publishing (2022) 
+- Daniel Graham - Ethical Hacking_ A Hands-on Introduction to Breaking In-No Starch Press (2021) 
+  Dennis J. Baker, Paul H. Robinson - Artificial Intelligence and the Law_ Cybercrime and Criminal Liability-Routledge (2020) 
+- Eddy Willems - Cyberdanger_ Understanding and Guarding Against Cybercrime-Springer (2019) 
+  Fahad Ali Sarwar - Python Ethical Hacking from Scratch_ Think like an ethical hacker, avoid detection, and successfully develop, deploy, detect, and avoid malware-Packt Publishing (2021) 
+- Graeme Edwards - Cybercrime Investigators Handbook-John Wiley & Sons (2020) 
+  John Bandler, Antonia Merzon - Cybercrime Investigations_ A Comprehensive Resource For Everyone-CRC Press_Routledge_Taylor & Francis Group (2020) 
+- Jon DiMaggio - The Art of Cyberwarfare An Investigator's Guide to Espionage, Ransomware, and Organized Cybercrime-No Starch Press (2022) 
+- (Law, Technology And Media) Alana Maurushat - Ethical Hacking-University Of Ottawa Press (2019) 
+  Majid Yar_ Kevin F. Steinmetz - Cybercrime and Society-SAGE Publications (2019) 
+  mastering-linux-penetration-testing-4th 
+- Nancy E. Marion, Jason Twede - Cybercrime_ An Encyclopedia Of Digital Crime. 1-ABC-CLIO (2020) 
+  Nearchos Nearchou - Combating Crime on the Dark Web_ Learn how to access the dark web safely and not fall victim to cybercrime (2023) 
+- (Palgrave Studies in Cybercrime and Cybersecurity) Kristan Stoddart - Cyberwarfare_ Threats to Critical Infrastructure-Palgrave Macmillan (2022) 
+- (Palgrave Studies in Cybercrime and Cybersecurity) Vasileios Karagiannopoulos (auth.) -  Living With Hacktivism_ From Conflict to Symbiosis-Palgrave Macmillan (2018) 
+- Priyanka Tomar, Sanjay Gautam - Cybercrime and Preventive Measures_ A Quick Guide to Get Yourself Secured and Protected from Digital Threats, Social Media Risks, and Cyber Criminals (English Edition)- 
+- Rob Wilson - Hands-On Ethical Hacking and Network Defense (MindTap Course List)-Cengage Learning (2022) 
+- (Routledge Studies in Crime and Society) Rutger Leukfeldt_ Thomas J. Holt - The Human Factor of Cybercrime-Routledge (2020) 
+- Sapp, Arthur S - Infinity Ethical Hacking_ Learn basic to advance hacks (2020) 
+- Scott Augenbaum - The Secret to Cybersecurity_ A Simple Plan to Protect Your Family and Business from Cybercrime-Forefront Books (29 Jan 2019) 
+- Sheelagh Brady & Caitríona Heinl - Cybercrime_ Current Threats and Responses A review of the research literature-SAR Consultancy & EXEDEC (2020) 
+- Thomas J. Holt - Cybercrime Through an Interdisciplinary Lens-Taylor & Francis (2019) 
+- Thomas J. Holt, Adam M. Bossler - The Palgrave Handbook Of International Cybercrime And Cyberdeviance-Palgrave Macmillan (2020) 
+- Tim Owen, Jessica Marshall - Rethinking Cybercrime_ Critical Debates-Palgrave Macmillan (2021) 
+- Tony Snake - Practical Ethical Hacking with Python_ Develop your own ethical hacking tools using Python-Independently published (2022)
